@@ -7,14 +7,14 @@
 
 <!-- versionCode is optional and Android only -->
 
-  <name>SIMS</name>
+  <name>HybribTestApp</name>
 
   <description>
-    This is the SIMS demo app.
+    This is the hybrid demo app.
   </description>
 
   <author href="https://build.phonegap.com" email="support@phonegap.com">
-    Innovation streams
+    Bright Niyonzima
   </author>
-  <icon src="img/sims-07.png"/>
+  <!-- <icon src="img/sims-07.png"/> -->
 </widget>
